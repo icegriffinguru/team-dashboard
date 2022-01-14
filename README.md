@@ -54,7 +54,6 @@
 * [Cross-Origin Resource Sharing (CORS)](#cross-origin-resource-sharing-cors)
   * [Proxy](#proxy)
   * [Resources](#resources)
-* [License](#license)
 
 ## Installation
 
@@ -478,7 +477,3 @@ docker run -d -p 3001:8080 chrishelgert/hapi-rest-proxy
 * https://developer.mozilla.org/en-US/docs/Web/HTTP/Access_control_CORS
 * https://enable-cors.org
 * https://en.wikipedia.org/wiki/Cross-origin_resource_sharing
-
-## License
-
-Copyright (c) 2017-present Daniel Bayerlein. See [LICENSE](./LICENSE.md) for details.
